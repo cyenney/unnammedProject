@@ -2,7 +2,7 @@
     <div class="common-layout">
         <el-container>
             <el-header class="no-padding">
-                <nav-bar></nav-bar>
+                <!--<nav-bar></nav-bar>-->
             </el-header>
             <el-main>
                 <router-view></router-view>
