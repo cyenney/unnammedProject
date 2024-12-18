@@ -1,0 +1,16 @@
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\wwwroot\\favicon.ico
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\wwwroot\\index.html
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\wwwroot\\main.bundle.js
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\wwwroot\\main.bundle.js.LICENSE.txt
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\webapi.exe
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\webapi.dll
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\webapi.deps.json
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\webapi.runtimeconfig.json
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\webapi.pdb
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\codyy\source\repos\unnamedProject\webapi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
